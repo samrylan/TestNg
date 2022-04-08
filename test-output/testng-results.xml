@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+      <class name="org.test.TestNg">
+        <test-method status="PASS" signature="bcf()[pri:0, instance:org.test.TestNg@470f1802]" name="bcf" is-config="true" duration-ms="16" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcf -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:org.test.TestNg@470f1802]" name="bm" is-config="true" duration-ms="16" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="tc2()[pri:-4, instance:org.test.TestNg@470f1802]" name="tc2" duration-ms="10" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="am()[pri:0, instance:org.test.TestNg@470f1802]" name="am" is-config="true" duration-ms="1" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="acf()[pri:0, instance:org.test.TestNg@470f1802]" name="acf" is-config="true" duration-ms="1" started-at="2022-04-01T08:01:23Z" finished-at="2022-04-01T08:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acf -->
+      </class> <!-- org.test.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
